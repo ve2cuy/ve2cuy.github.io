@@ -8,7 +8,7 @@
 ---
 ## Cours disponibles
 
-[420-1C4 : Objets connectés](https://ve2cuy.com/420-1c4/)
+[420-1C4 : Objets connectés](https://ve2cuy.github.io/4201c4/)
 
 [420-3C3 : Installation de serveurs](https://ve2cuy.com/420-3c3/)
 

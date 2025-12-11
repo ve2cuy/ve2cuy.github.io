@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="images/ve2cuy-bienvenue.png" alt="YAML" width="450" />
+    <img src="Images/ve2cuy-bienvenue.png" alt="YAML" width="450" />
 </p>
 
 ---

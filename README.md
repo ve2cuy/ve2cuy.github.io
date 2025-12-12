@@ -19,7 +19,7 @@
 
 ## Auteur
 
-<img src="images/moi.jpg" alt="Alain Boudreault" width="300" />
+<img src="Images/moi.jpg" alt="Alain Boudreault" width="300" />
 
 - Alain BOUDREAULT
 - Enseignant au département de Techniques de l'Informatique

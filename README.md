@@ -21,6 +21,8 @@
 
 [Blog personnel](https://ve2cuy.github.io/blog/)
 
+[Émulateur TRS-80 Model I](https://ve2cuy.github.io/trs80-emu/)
+
 ---
 
 ## Auteur

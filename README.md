@@ -21,7 +21,9 @@
 
 [Blog personnel](https://ve2cuy.github.io/blog/)
 
-[Émulateur TRS-80 Model I](https://ve2cuy.github.io/trs80-emu/)
+[Émulateur TRS-80 Model 1, 2, 3 et 4](https://ve2cuy.github.io/trs80-emu/)
+
+[Émulateur VAXstation 3900 (OpenVMS, DECwindows)](https://ve2cuy.github.io/vax-emu/)
 
 ---
 

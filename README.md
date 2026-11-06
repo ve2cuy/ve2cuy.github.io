@@ -1,5 +1,9 @@
 # VOUS ÊTES CHEZ VE2CUY
 
+> **Site :** <https://ve2cuy.github.io/>. Pour modifier l'accueil et le voir en local avant de
+> publier, voir le **[guide d'entretien](GUIDE.md)**. L'accueil du site est `index.md`, en Markdown :
+> ce README n'est que la page du dépôt.
+
 
 <p align="center">
     <img src="Images/ve2cuy-bienvenue.png" alt="Bienvenue chez VE2CUY!" width="450" />

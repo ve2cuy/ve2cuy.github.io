@@ -1,0 +1,23 @@
+title: "VE2CUY · Alain Boudreault"
+description: "Matériel de cours en techniques de l'informatique, projets personnels et émulateurs d'ordinateurs d'époque qui roulent dans un fureteur."
+lang: fr
+# Propres au site : en-tête, pied de page, aperçu local (outils/apercu.sh).
+cours_code: "ALAIN BOUDREAULT"
+cours_nom: "VE2CUY"
+depot: "ve2cuy/ve2cuy.github.io"
+baseurl: ""
+# Menu du haut
+navigation:
+  - titre: "Cours"
+    lien: "/#section-a"
+  - titre: "Émulateurs"
+    lien: "/#section-b"
+  - titre: "Atelier"
+    lien: "/#section-c"
+  - titre: "Blogue"
+    lien: "https://ve2cuy.github.io/blog/"
+# Gabarit et feuilles de style repris des sites de cours (420-1C4, 420-4D4).
+# L'accueil du site est index.md; README.md reste la page du dépôt.
+exclude:
+  - GUIDE.md
+  - outils
